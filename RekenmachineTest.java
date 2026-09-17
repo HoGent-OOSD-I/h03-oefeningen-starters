@@ -15,7 +15,7 @@ class RekenmachineTest {
     }
 
     @Test
-    void maakRekenmachine_MaaktRekenmachine() {
+    void maakRekenmachine_MaaktRekenmachineMetResultaat0() {
         assertEquals(0, rm.getResultaat());
     }
 
